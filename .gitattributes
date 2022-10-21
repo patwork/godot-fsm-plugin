@@ -1,0 +1,7 @@
+# unix eol
+* text=auto eol=lf
+
+# export only addons folder
+/**        export-ignore
+/addons    !export-ignore
+/addons/** !export-ignore
